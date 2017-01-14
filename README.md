@@ -1,5 +1,5 @@
-# ng2chat
+# ng2-chat
 
 
-https://ng2chat.xgqfrms.xyz
+https://ng2-chat.xgqfrms.xyz
 
